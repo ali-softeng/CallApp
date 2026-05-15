@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963208095776",
+    "project_id": "mycallapp-80cae",
+    "storage_bucket": "mycallapp-80cae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963208095776:android:c8ea9ca5e018ba6c137445",
+        "android_client_info": {
+          "package_name": "com.example.callapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75cgN5DqY6e_zd15OMcmECwFjDuZM56Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
