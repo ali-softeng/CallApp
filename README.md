@@ -154,4 +154,4 @@ The project can be extended further with additional features such as:
 # Screenshots
 | 1. User Directory (`contact-list.jpeg`) | 2. Runtime Permissions (`permission.jpeg`) | 3. Active Video Call (`call.jpg`) |
 | :---: | :---: | :---: |
-| <img src="screenshots/contact-list.jpeg" width="260" alt="Contacts Directory Screen"/> | <img src="screenshots/permission.jpeg" width="260" alt="Camera & Audio Permission Dialog"/> | <img src="screenshots/call.jpg" width="260" alt="Active Peer-to-Peer Video Call"/> |
+| <img src="screenshots/contact-list.jpeg" width="260" alt="Contacts Directory Screen"/> | <img src="screenshots/permission.jpeg" width="260" alt="Camera & Audio Permission Dialog"/> | <img src="screenshots/call.jpeg" width="260" alt="Active Peer-to-Peer Video Call"/> |
